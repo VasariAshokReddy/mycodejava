@@ -3,6 +3,11 @@ package com.app;
 import java.util.HashSet;
 import java.util.Iterator;
 
+/**
+ *  this is demo class 
+ * @author vasariashok
+ *
+ */
 public class Demo {
 
 	public static void main(String[] args) {
